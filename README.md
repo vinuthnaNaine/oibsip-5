@@ -38,7 +38,7 @@ Ensure you have **Python 3.x** installed, along with the following libraries:
 - `matplotlib`
 - `seaborn`
 - `scikit-learn`
-- `Jupyter Notebook` (if running `.ipynb` file)
+- `Jupyter Notebook`
 
 ### **📥 Install Dependencies**  
 Run the following command to install the required dependencies:  
