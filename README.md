@@ -8,12 +8,11 @@ This project implements a **machine learning model** to predict **sales revenue*
 ---
 
 ## 📂 Dataset Information  
-- **Filename:** `sales_data.csv`  
-- **Source:** [Mention dataset source if applicable]  
+- **Filename:** `Advertising.csv`   
 - **Format:** CSV  
-- **Size:** [XX MB]  
-- **Number of Samples:** [XXX]  
-- **Number of Features:** [XX]  
+- **Size:** 6kb
+- **Number of Samples:** 200 samples
+- **Number of Features:** 3 (Advertising channels) + 1 (Sales)  
 
 ### **🔢 Features & Labels**
 | Column Name       | Description                                      |
